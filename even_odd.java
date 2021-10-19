@@ -4,7 +4,7 @@ import java.io.*;
 
 class GFG {
 	public static void main (String[] args) {
-		int[] arr=new int[]{2,1,9,10,8,5};
+		int[] arr={2,1,9,10,8,5};
 		
 		int o=0,e=0;
 		while(o<6&&e<6)
