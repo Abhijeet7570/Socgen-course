@@ -5,7 +5,7 @@ import java.lang.Math;
 
 class GFG {
 	public static void main (String[] args) {
-		int[] arr=new int[]{8,9,10,15,16,25};
+		int[] arr={8,9,10,15,16,25};
 		
 		int o=0,e=0;
 		while(o<6&&e<6)
